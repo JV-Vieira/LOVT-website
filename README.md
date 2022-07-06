@@ -1,9 +1,9 @@
 <h1 align="center"> LOVT - Website </h1>
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/julianasinnott/lovt-website.svg?color=0489B1">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/JV-Vieira/LOVT-website.svg?color=0489B1">
 
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/julianasinnott/lovt-website.svg?color=0489B1">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/JV-Vieira/LOVT-website.svg?color=0489B1">
   
 </p>
 
