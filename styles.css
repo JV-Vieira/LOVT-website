@@ -28,7 +28,7 @@ body {
 }
 
 /* header  */
-.header__navbar {
+.header-navbar {
   height: 49px;
   width: 100%;
   display: flex;
@@ -37,14 +37,14 @@ body {
   align-items: center;
 }
 
-.header__navbar__logo {
+.header-navbar-logo {
   color: #777777;
   font-size: 1.8em;
   margin-left: 50px;
   font-weight: lighter;
 }
 
-.header__navbar__slogan {
+.header-navbar-slogan {
   color: #aaaaaa;
   font-size: 0.6em;
   width: 40px;
@@ -53,7 +53,7 @@ body {
   font-weight: lighter;
 }
 
-.header__navbar__menu-hamburguer {
+.header-navbar-menu-hamburguer {
   background-image: url("./assets/menu.png");
   width: 18px;
   height: 12px;
@@ -76,7 +76,7 @@ body {
 }
 
 /* houses for sale  */
-.houses__cards {
+.houses-cards {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
@@ -84,7 +84,7 @@ body {
   padding: 0 45px;
 }
 
-.cards__card {
+.cards-card {
   width: 40%;
   height: 250px;
   background-color: #eeeeee;
@@ -94,12 +94,12 @@ body {
   cursor: pointer;
 }
 
-.cards__card__image {
+.cards-card-image {
   width: 100%;
   height: 144px;
 }
 
-.cards__card__box {
+.cards-card-box {
   display: flex;
   flex-direction: row;
   margin: 10px 0;
@@ -108,14 +108,14 @@ body {
   width: 100%;
 }
 
-.cards__card__box__price {
+.cards-card-box-price {
   font-size: 1.5em;
   color: #888888;
   font-weight: lighter;
   margin-right: 125px;
 }
 
-.cards__card__box__tag {
+.cards-card-box-tag {
   width: 60px;
   height: 21px;
   border-radius: 10px;
@@ -129,12 +129,12 @@ body {
   background-color: #dc9730;
 }
 
-.cards__card__box__tag__text {
+.cards-card-box-tag-text {
   size: 20px;
   color: #ffffff;
 }
 
-.cards__card__text {
+.cards-card-text {
   text-align: justify;
   font-size: 0.6em;
   width: 90%;
@@ -148,13 +148,13 @@ body {
   margin-top: 45px;
 }
 
-.your-style__title {
+.your-style-title {
   font-size: 1.5em;
   color: #888888;
   font-weight: lighter;
 }
 
-.your-style__styles {
+.your-style-styles {
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -162,7 +162,7 @@ body {
   margin-bottom: 10px;
 }
 
-.your-style__styles__box {
+.your-style-styles-box {
   height: 80px;
   width: 90%;
   margin: 10px 0;
@@ -173,7 +173,7 @@ body {
   cursor: pointer;
 }
 
-.your-style__styles__box__text {
+.your-style-styles-box-text {
   font-size: 1.5em;
   color: #ffffff;
   font-weight: lighter;
@@ -221,16 +221,16 @@ body {
   font-weight: lighter;
 }
 
-.footer__map {
+.footer-map {
   width: 252px;
   height: 163px;
 }
 
-.footer__map iframe {
+.footer-map iframe {
   border-radius: 19px;
 }
 
-.footer__contact {
+.footer-contact {
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -238,18 +238,18 @@ body {
   text-align: left;
 }
 
-.footer__find-us {
+.footer-find-us {
   display: flex;
   flex-direction: column;
   justify-content: left;
 }
 
-.footer__find-us__paragraph {
+.footer-find-us-paragraph {
   margin: 7px 0;
   font-size: 0.7em;
 }
 
-.footer__social-media {
+.footer-social-media {
   display: flex;
   flex-direction: column;
   margin-bottom: 10px;
@@ -257,11 +257,11 @@ body {
   width: 100%;
 }
 
-.footer__social-media__title {
+.footer-social-media-title {
   margin-top: 12px;
 }
 
-.footer__social-media__icons i {
+.footer-social-media-icons i {
   margin: 10px 12px 0;
   font-size: 1.25em;
   cursor: pointer;

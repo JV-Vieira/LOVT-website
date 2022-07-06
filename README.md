@@ -22,7 +22,7 @@ Desenvolvido durante o curso de Desenvolvimento FrontEnd - Digital House.
 
 ## | Deploy do projeto |
 
-<!-- 🔗 Em andamento 🔗 -->
+🔗 https://jv-vieira.github.io/LOVT-website/ 🔗
 
 ## | Layout base no Figma |
 
